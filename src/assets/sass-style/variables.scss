@@ -1,0 +1,30 @@
+// DEFINE SASS VARIABLES HERE
+// Colors
+$color-bg: #3c5556;
+$color-bg-dark: #1c2e4a;
+$color-grey-light: #4c6b6b;
+$color-white: #FEFCFF;
+$color-white-soft: #f8f8f8;
+$color-black: black;
+$color-red: rgba(255, 0, 0, 5);
+
+// Fonts
+$font-family: 'Roboto',
+sans-serif;
+$font-family-alt: 'Inter',
+monospace;
+$font-family-alt-2: 'Fira Sans',
+serif;
+
+// Font Sizes
+$font-size-xs: 0.8rem; // 12px
+$font-size-sm: 1rem; // 16px
+$font-size-md: 1.2rem; // 19px
+$font-size-lg: 1.5rem; // 22px
+$font-size-xl: 2rem; // 32px
+$font-size-xxl: 3.5rem; // 40px
+
+// Font Weights
+$font-weight-normal: 400;
+$font-weight-medium: 500;
+$font-weight-bold: 700;
